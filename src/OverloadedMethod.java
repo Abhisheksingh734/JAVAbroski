@@ -2,7 +2,8 @@ public class OverloadedMethod {
     public static void main(String[] args) {
 
         //overloaded method - methods that share same name but have different parameters
-        int x = add(1,2,3);
+        final int x = add(1,2,3);
+
     }
 
     static int add(int a, int b){
