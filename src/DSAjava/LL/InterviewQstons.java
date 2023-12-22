@@ -3,8 +3,6 @@ package DSAjava.LL;
 
 public class InterviewQstons {
     public static void main(String[] args) {
-
-
     }
 
     public static LinkedList mergeClass(LinkedList list1, LinkedList list2){
